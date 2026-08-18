@@ -12,14 +12,17 @@
         "pages": [
           "index",
           "test"
-        ]
+        ],
+        "default": true,
+        "hidden": true
       },
       {
         "language": "ru",
         "pages": [
           "ru/index",
           "ru/test"
-        ]
+        ],
+        "hidden": true
       }
     ]
   }
