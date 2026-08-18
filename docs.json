@@ -1,17 +1,21 @@
 {
   "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
   "name": "Inventory Plus",
+  "colors": {
+    "primary": "#2563EB"
+  },
   "navigation": {
     "languages": [
       {
-        "language": "English",
+        "language": "en",
         "pages": [
           "index",
           "test"
         ]
       },
       {
-        "language": "Русский",
+        "language": "ru",
         "pages": [
           "ru/index",
           "ru/test"
