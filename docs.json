@@ -6,6 +6,23 @@
     "primary": "#2563EB"
   },
   "navigation": {
-    "groups": []
+    "languages": [
+      {
+        "language": "en",
+        "hidden": true,
+        "pages": [
+          "index",
+          "test"
+        ]
+      },
+      {
+        "language": "ru",
+        "hidden": true,
+        "pages": [
+          "ru/index",
+          "ru/test"
+        ]
+      }
+    ]
   }
 }
