@@ -1,0 +1,4 @@
+/* Hide the language selector while keeping locale routing active. */
+#localization-select-trigger {
+  display: none !important;
+}
